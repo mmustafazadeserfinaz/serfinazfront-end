@@ -1,0 +1,55 @@
+.textdiv{
+    text-align: center;
+}
+.parent{
+    width: 80%;
+    margin: auto;
+}
+.textdiv h1{
+    color:darkblue;
+    font-weight: 700;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .textdiv p{
+    width: 70%;
+    margin: auto;
+    color: gray;
+    text-shadow: 4px 8px 7px;
+    
+}
+.parent{
+    margin-top: 35px;
+    width: 80%;
+}
+.box{
+    width: 30%;
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 2rem;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    box-shadow: 3px 4px 5px;
+}
+.box .word{
+    font-size: 1.3rem;
+    color: gray;
+    font-weight: bold;
+}
+.box img{
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    height: 60px;
+}
+.box .text{
+    display: inline-block;
+}
+.box text h4{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
