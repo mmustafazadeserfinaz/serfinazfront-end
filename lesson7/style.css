@@ -1,0 +1,41 @@
+ body{
+    height: 5000px;
+ }
+ .word{ 
+    text-align: center;
+    color: red;
+    text-shadow: 3px 4px 5px yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.abc{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    object-fit: cover;
+
+}
+.picture{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    padding: 0.4rem;
+    
+}
+.parent{
+    width: 70%;
+    margin: auto;
+}
+a{
+    background-color: red;
+    color: white;
+    padding: 2rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
