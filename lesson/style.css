@@ -1,0 +1,51 @@
+.word{
+    text-align: center;
+}
+.word {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px 4px 5px red;
+}
+body{
+    background-color: aqua;
+   height: 5000px;
+}
+ 
+.word img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.picture img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    object-fit: cover;
+}  
+.picture{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    padding: 0.4rem;
+}
+.parent{
+    width: 70%;
+    margin: auto;
+    
+}
+a{
+    background-color: chocolate;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 1rem;
+    display: block;
+}
+a:hover{
+    background-color:blueviolet ;
+    transition: 1s all ease;
+}
+   
+
