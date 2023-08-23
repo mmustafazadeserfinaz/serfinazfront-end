@@ -1,0 +1,29 @@
+
+.img{
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+}
+.black{
+    background-color: black;
+    height: 300px;
+    color: white;
+    line-height: 30px;
+    padding: 3rem;
+}
+.black p{
+    color: gray;
+}
+.black span{
+    color: cadetblue;
+}
+.black span,p,h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgdiv{
+    height: 300px;
+    background-size: cover;
+}
+.cars{
+    margin-top: 3rem;
+}
